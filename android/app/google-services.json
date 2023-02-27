@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360691140061",
+    "firebase_url": "https://fir-push-notify-74835-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-push-notify-74835",
+    "storage_bucket": "fir-push-notify-74835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360691140061:android:2a5012e50244c904cd2234",
+        "android_client_info": {
+          "package_name": "com.example.spotify_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360691140061-tmmt1u1nefrq5kdbh4pdh6saeq73urqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKYZe5SG0iD_efHOv5WZjLnahJfJm-SFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360691140061-tmmt1u1nefrq5kdbh4pdh6saeq73urqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+  "@@locale":"vi",
+  "title_intro":"Enjoy listening to music",
+  "intro_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis enim purus sed phasellus. Cursus ornare id scelerisque aliquam.",
+  "mode_title":"Choose Mode",
+  "dark_mode":"Dark mode",
+  "light_mode":"Light mode",
+  "button_get_start":"Get Started",
+  "button_continue": "Continue",
+  "authen_description":"Spotify is a proprietary Swedish audio streaming and media services provider "
+}
